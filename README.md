@@ -1,1 +1,1 @@
-# Into-ML-Lab
+# Intro-ML-Lab
